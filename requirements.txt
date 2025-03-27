@@ -1,2 +1,2 @@
 discord.py
-pyternos
+git+https://github.com/luizfernandonb/pyternos.git
